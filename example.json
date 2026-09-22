@@ -1,0 +1,67 @@
+{
+  "updatedAt": "2026-12-20",
+  "banners": [
+    {
+      "id": "xmas-2026",
+      "tag": "크리스마스",
+      "title": "혼자여도 괜찮아, 악마의 크리스마스",
+      "sub": "12월 26일까지 · 야식 특집",
+      "emoji": "🎄",
+      "color": "#DDF5E4",
+      "go": "#/theme/devil",
+      "start": "2026-12-20",
+      "end": "2026-12-26"
+    },
+    {
+      "id": "night-ramen",
+      "tag": "공포의 야식",
+      "title": "오늘 밤은 콘버터 라면",
+      "sub": "봉인 해제하고 바로 끓이기",
+      "emoji": "🌽",
+      "dark": true,
+      "go": "#/r/corn-butter-ramen",
+      "night": true
+    }
+  ],
+  "notice": {
+    "id": "new-recipes-1220",
+    "emoji": "🎁",
+    "title": "새 레시피 3개가 추가됐어요!",
+    "body": "크리스마스 특집 악마의 레시피를 확인해보세요.",
+    "button": { "label": "보러 가기", "go": "#/theme/devil" },
+    "start": "2026-12-20",
+    "end": "2026-12-31"
+  },
+  "shopLinks": {
+    "불닭볶음면": { "url": "https://link.coupang.com/a/xxxxxx", "label": "불닭볶음면 5입" },
+    "스팸": { "url": "https://link.coupang.com/a/yyyyyy", "label": "스팸 클래식 200g" }
+  },
+  "recipes": [
+    {
+      "id": "ramen-fried-rice",
+      "name": "라면 볶음밥",
+      "emoji": "🍳",
+      "color": "#FFE2A8",
+      "desc": "라면 먹고 남은 국물 없이 볶아버리기",
+      "th": ["beggar", "late"],
+      "cost": 1400, "min": 10, "lv": 1, "kcal": 720, "devil": 3,
+      "ing": [["라면", "1/2봉"], ["밥", "1공기"], ["계란", "1개"], ["식용유", "1큰술"], ["김가루", "약간", 1]],
+      "steps": [
+        "라면을 잘게 부숴 1분만 삶고 물을 버려요.",
+        ["기름 두른 팬에 라면과 밥, 스프 1/3을 넣고 3분 볶아요.", 180],
+        "계란을 한쪽에 스크램블해서 섞어요.",
+        "김가루를 뿌려 완성."
+      ],
+      "tip": "스프는 조금씩 넣어가며 간을 보세요."
+    },
+    { "id": "marks-set", "cost": 8900 },
+    { "id": "affogato", "remove": true }
+  ],
+  "ingredients": [
+    { "name": "떡국떡", "emoji": "🍡", "cat": "carb", "q": "떡국떡", "life": 5 }
+  ],
+  "settings": {
+    "interstitialEvery": 5,
+    "interstitialCooldown": 180
+  }
+}
