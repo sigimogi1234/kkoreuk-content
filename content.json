@@ -1,43 +1,52 @@
 {
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "banners": [],
   "notice": null,
   "shopLinks": {
     "계란": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=9532199546&itemId=28427484617&traceid=V0-201-478814a61d9bceca",
-      "label": "신선 대란 30구"
+      "label": "신선 대란 30구",
+      "image": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/961594705673511-2361be2f-36ab-4756-8346-7adf580164ed.jpg"
     },
     "버터": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=8686203570&itemId=25216398508&traceid=V0-201-dffadf71597d17ea",
-      "label": "프레지덩 미니 버터 200g"
+      "label": "프레지덩 미니 버터 200g",
+      "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/gedci7zn/d5ea86b6b19a4d71859c6efcab3dc6f5.jpg"
     },
     "밥": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=8814455589&itemId=25681592636&traceid=V0-201-413320018448cee7",
-      "label": "카무트 현미밥 18개"
+      "label": "카무트 현미밥 18개",
+      "image": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/07/27/14/5/2f28b132-83a2-4ae0-835e-f81f9919a5a0.jpg"
     },
     "슬라이스치즈": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=1606628686&itemId=2744073920&traceid=V0-201-d25dfd19bac39001",
-      "label": "곰곰 체다 슬라이스 22매"
+      "label": "곰곰 체다 슬라이스 22매",
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/790554532256580-04059f75-32c1-473b-92c7-940ac487fbdf.jpg"
     },
     "라면": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=7958974&itemId=1035120754&traceid=V0-201-2d25f09476b2dcfc",
-      "label": "신라면 10개"
+      "label": "신라면 10개",
+      "image": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/177412650233572-6eba4622-842c-4b46-b62e-b2be05ee648f.png"
     },
     "비엔나소시지": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=129241540&itemId=380700176&traceid=V0-201-e8496a5d7444b9a8",
-      "label": "동원 비엔나 1kg"
+      "label": "동원 비엔나 1kg",
+      "image": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/5120279096368072-77e802a9-0ab5-427d-9086-2611234d4624.jpg"
     },
     "짜파게티": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=9679047534&itemId=28876644058&traceid=V0-201-a3cf674c497af72f",
-      "label": "삼양 짜르르 8개"
+      "label": "삼양 짜르르 8개",
+      "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/138710174954991-e12022ff-7e86-4dc3-8caa-960bf41a44cd.jpg"
     },
     "모짜렐라치즈": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=1308889924&itemId=2325255337&traceid=V0-201-c037a2e31581c988",
-      "label": "곰곰 모짜렐라 1kg"
+      "label": "곰곰 모짜렐라 1kg",
+      "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/6337595723873993-f73775d5-9de9-435e-b29e-a8a783a25e5d.jpg"
     },
     "냉동만두": {
       "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3465495&pageKey=158010844&itemId=28571890739&traceid=V0-201-6035fcfe3f5ece78",
-      "label": "비비고 왕교자"
+      "label": "비비고 왕교자",
+      "image": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/1080839222482822-28687928-5742-494f-bd60-64b36e5f8ab8.jpg"
     }
   },
   "recipes": [],
